@@ -18,7 +18,7 @@ We are happy to share our Amrita-CEN-SentiDB dataset. However, in order to preve
 ### Research Papers
 
 1. Naveenkumar K S, Vinayakumar R, Soman K P, "Amrita-CEN-SentiDB1:Improved Twitter Dataset for Sentimental Analysis and Application of Deep 
-learning", INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) [[https://ieeexplore.ieee.org/document/8944758]](Paper)
+learning", INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) [[https://ieeexplore.ieee.org/document/8944758]](Paper)[https://github.com/vinayakumarr/Amrita-CEN-SentiDB/blob/master/Vaigai_Presentation%20(2).pdf](PPT)
 
 ### Support or Contact
 
